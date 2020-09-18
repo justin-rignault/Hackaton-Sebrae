@@ -1,6 +1,6 @@
 # Hackathon-Sebrae
 
-Obejetivo: 
+Objetivo: 
 
 Deixar mais proximos tanto o cliente como o usuário, facilitando o acesso tanto para quem quer comprar como para quem quer vender, uma união na comunidade fortalecendo ambos os lados
 
